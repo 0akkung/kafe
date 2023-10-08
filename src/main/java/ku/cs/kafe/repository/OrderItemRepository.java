@@ -5,6 +5,9 @@ import ku.cs.kafe.entity.OrderItemKey;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 @Repository
 public interface OrderItemRepository
         extends JpaRepository<OrderItem, OrderItemKey> {

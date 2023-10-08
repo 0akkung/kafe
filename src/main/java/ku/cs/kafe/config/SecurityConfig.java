@@ -12,6 +12,9 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig {

@@ -3,6 +3,9 @@ package ku.cs.kafe.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 @Data
 @Entity
 public class OrderItem {

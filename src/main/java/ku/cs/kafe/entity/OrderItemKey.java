@@ -6,6 +6,9 @@ import lombok.*;
 import java.io.Serializable;
 import java.util.UUID;
 
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

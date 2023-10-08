@@ -9,6 +9,9 @@ import lombok.Data;
 
 import java.util.UUID;
 
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 @Data
 @Entity
 public class Menu {

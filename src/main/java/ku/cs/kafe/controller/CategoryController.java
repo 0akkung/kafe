@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 @Controller
 @RequestMapping("/categories")
 public class CategoryController {

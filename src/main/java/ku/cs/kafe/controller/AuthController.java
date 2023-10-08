@@ -9,7 +9,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
-
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 @Controller
 public class AuthController {
 

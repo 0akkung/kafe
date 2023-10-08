@@ -6,6 +6,9 @@ import org.springframework.stereotype.Repository;
 
 import java.util.UUID;
 
+/**
+ * @author Pawat Puttimit 6410406827
+ */
 @Repository
 public interface MenuRepository extends JpaRepository<Menu, UUID> {
 }
